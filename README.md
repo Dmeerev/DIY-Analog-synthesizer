@@ -2,6 +2,7 @@
  DIY Analog (analog-digital keyboard) mono - 8 voices poly - 8 full voices polyfonic synthesizer project (WIP)
 
 status: 3% done.
+
 Project history:
 [27.05.2020] first 2 PCB's added.
 
